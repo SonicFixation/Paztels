@@ -2,7 +2,7 @@
     "name": "Paztels",
     "displayName": "Paztels",
     "description": "Dark theme with pastel colours",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "SonicFixation",
     "engines": {
         "vscode": "^1.66.0"
@@ -10,6 +10,10 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SonicFixation/Paztels.git"
+    },
     "contributes": {
         "themes": [
             {
