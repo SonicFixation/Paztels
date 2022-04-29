@@ -1,9 +1,16 @@
 # Change Log
 
-All notable changes to the "proper-pastels" extension will be documented in this file.
-
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.0.0] - 2022-04-29
 
-- Initial release
+### Changed
+- editor background colours
+- activity bar colours
+- status bar colours
+- git decoration colours
+- menu and search colours
+
+## [0.0.1] - 2022-04-28
+### Added
+- colours

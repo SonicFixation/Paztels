@@ -1,8 +1,9 @@
 {
-    "name": "proper-pastels",
-    "displayName": "Proper Pastels",
+    "name": "Paztels",
+    "displayName": "Paztels",
     "description": "Dark theme with pastel colours",
     "version": "0.0.1",
+    "publisher": "SonicFixation",
     "engines": {
         "vscode": "^1.66.0"
     },
@@ -12,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Proper Pastels",
+                "label": "Paztels",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Proper Pastels-color-theme.json"
+                "path": "./themes/Paztels-color-theme.json"
             }
         ]
     }
