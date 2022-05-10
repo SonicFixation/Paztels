@@ -2,7 +2,13 @@
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.1.1] - 2022-05-10
+### Changed
+- tweaked background colours
+- brightened up text colours
+
 ## [1.1.0] - 2022-04-29
+### Changed
 - fixed button forground (text) colour
 - improve picker group foreground saturation
 

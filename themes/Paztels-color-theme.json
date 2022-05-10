@@ -109,7 +109,7 @@
       "name": "punctuation.definition",
       "scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
       "settings": {
-        "foreground": "#008dc4"
+        "foreground": "#12cafb"
       }
     },
     {
@@ -123,7 +123,7 @@
       "name": "Comment Markup Link",
       "scope": "comment markup.link",
       "settings": {
-        "foreground": "#515dbe"
+        "foreground": "#5F62FF"
       }
     },
     {
@@ -144,7 +144,7 @@
       "name": "inserted.diff",
       "scope": "markup.inserted.diff",
       "settings": {
-        "foreground": "#008dc4"
+        "foreground": "#12cafb"
       }
     },
     {
@@ -531,7 +531,7 @@
       "name": "Keywords",
       "scope": "keyword",
       "settings": {
-        "foreground": "#ffa0a0"
+        "foreground": "#ffacac"
       }
     },
     {
@@ -736,7 +736,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#008dc4"
+        "foreground": "#12cafb"
       }
     },
     {
@@ -899,14 +899,14 @@
       "name": "[VSCODE-CUSTOM] Markdown Inline Raw",
       "scope": "markup.inline.raw.markdown",
       "settings": {
-        "foreground": "#008dc4"
+        "foreground": "#12cafb"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Inline Raw",
       "scope": "markup.inline.raw.string.markdown",
       "settings": {
-        "foreground": "#008dc4"
+        "foreground": "#12cafb"
       }
     },
     {
@@ -1038,7 +1038,7 @@
       "name": "Source Json Meta Structure Dictionary Json > Value Json > String Quoted Json,source Json Meta Structure Array Json > Value Json > String Quoted Json,source Json Meta Structure Dictionary Json > Value Json > String Quoted Json > Punctuation,source Json Meta Structure Array Json > Value Json > String Quoted Json > Punctuation",
       "scope": "source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation",
       "settings": {
-        "foreground": "#008dc4"
+        "foreground": "#12cafb"
       }
     },
     {
@@ -1381,7 +1381,7 @@
         "keyword.other.template.begin"
       ],
       "settings": {
-        "foreground": "#008dc4"
+        "foreground": "#12cafb"
       }
     },
     {
@@ -1390,7 +1390,7 @@
         "keyword.other.template.end"
       ],
       "settings": {
-        "foreground": "#008dc4"
+        "foreground": "#12cafb"
       }
     },
     {
@@ -1399,7 +1399,7 @@
         "keyword.other.substitution.begin"
       ],
       "settings": {
-        "foreground": "#008dc4"
+        "foreground": "#12cafb"
       }
     },
     {
@@ -1408,7 +1408,7 @@
         "keyword.other.substitution.end"
       ],
       "settings": {
-        "foreground": "#008dc4"
+        "foreground": "#12cafb"
       }
     },
     {
@@ -1537,7 +1537,7 @@
         "source.ini"
       ],
       "settings": {
-        "foreground": "#008dc4"
+        "foreground": "#12cafb"
       }
     },
     {
@@ -1591,7 +1591,7 @@
         "meta.definition.class.inherited.classes.groovy"
       ],
       "settings": {
-        "foreground": "#008dc4"
+        "foreground": "#12cafb"
       }
     },
     {
@@ -1697,7 +1697,7 @@
         "beginning.punctuation.definition.quote.markdown.xi"
       ],
       "settings": {
-        "foreground": "#008dc4"
+        "foreground": "#12cafb"
       }
     },
     {
@@ -1706,7 +1706,7 @@
         "beginning.punctuation.definition.list.markdown.xi"
       ],
       "settings": {
-        "foreground": "#515dbe"
+        "foreground": "#5F62FF"
       }
     },
     {
@@ -1751,7 +1751,7 @@
         "punctuation.definition.tag.xi"
       ],
       "settings": {
-        "foreground": "#515dbe"
+        "foreground": "#5F62FF"
       }
     },
     {
@@ -1790,14 +1790,14 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#515dbe"
+        "foreground": "#5F62FF"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Quote",
       "scope": "markup.quote.markdown",
       "settings": {
-        "foreground": "#515dbe"
+        "foreground": "#5F62FF"
       }
     },
     {
@@ -1850,11 +1850,11 @@
     "selection.background": "#5661ff",
     "scrollbar.shadow": "#000000",
     "activityBar.foreground": "#0effbf",
-    "activityBar.background": "#16191d",
+    "activityBar.background": "#26292e",
     "activityBar.inactiveForeground": "#5e5e5e",
     "activityBarBadge.foreground": "#2c3138",
     "activityBarBadge.background": "#0effbf",
-    "sideBar.background": "#191d21",
+    "sideBar.background": "#1e1e1e",
     "sideBar.foreground": "#cccccc",
     "sideBarSectionHeader.background": "#00000000",
     "sideBarSectionHeader.foreground": "#cccccc",
@@ -1911,7 +1911,7 @@
     "inputOption.activeForeground": "#ffffff",
     "input.placeholderForeground": "#a6a6a6",
     "textLink.foreground": "#3794ff",
-    "editor.background": "#21252a",
+    "editor.background": "#202121",
     "editor.foreground": "#bebebe",
     "editorLineNumber.foreground": "#858585",
     "editorCursor.foreground": "#aeafad",
@@ -1923,7 +1923,7 @@
     "editor.selectionHighlightBorder": "#495F77",
     "editor.findMatchBackground": "#515c6a",
     "editor.findMatchBorder": "#74879f",
-    "editor.findMatchHighlightBackground": "#ea5c0055",
+    "editor.findMatchHighlightBackground": "#0effbf71",
     "editor.findMatchHighlightBorder": "#ffffff00",
     "editor.findRangeHighlightBackground": "#3a3d4166",
     "editor.findRangeHighlightBorder": "#ffffff00",
@@ -1947,13 +1947,13 @@
     "editorError.foreground": "#f48771",
     "editorError.background": "#B73A3400",
     "editorError.border": "#ffffff00",
-    "editorWarning.foreground": "#cca700",
+    "editorWarning.foreground": "#e9ff43",
     "editorWarning.background": "#A9904000",
     "editorWarning.border": "#ffffff00",
     "editorInfo.foreground": "#75beff",
     "editorInfo.background": "#4490BF00",
     "editorInfo.border": "#4490BF00",
-    "editorGutter.background": "#15171b",
+    "editorGutter.background": "#2c2f34",
     "editorGutter.modifiedBackground": "#fffb94",
     "editorGutter.addedBackground": "#a2ff77",
     "editorGutter.deletedBackground": "#f88383",
@@ -2028,14 +2028,14 @@
     "gitDecoration.conflictingResourceForeground": "#a5a5ff",
     "gitDecoration.deletedResourceForeground": "#a52e00",
     "gitDecoration.ignoredResourceForeground": "#666666",
-    "gitDecoration.modifiedResourceForeground": "#b8b568",
+    "gitDecoration.modifiedResourceForeground": "#fffdbd",
     "gitDecoration.stageDeletedResourceForeground": "#ff5f43",
     "gitDecoration.stageModifiedResourceForeground": "#fffb94",
     "gitDecoration.submoduleResourceForeground": "#9afffc",
     "gitDecoration.untrackedResourceForeground": "#efa3ff",
     "editorMarkerNavigation.background": "#2d2d30",
     "editorMarkerNavigationError.background": "#f48771",
-    "editorMarkerNavigationWarning.background": "#cca700",
+    "editorMarkerNavigationWarning.background": "#e9ff42",
     "editorMarkerNavigationInfo.background": "#75beff",
     "merge.currentHeaderBackground": "#367366",
     "merge.currentContentBackground": "#27403B",
@@ -2059,7 +2059,7 @@
     "peekViewResult.background": "#252526",
     "peekViewResult.fileForeground": "#ffffff",
     "peekViewResult.lineForeground": "#bbbbbb",
-    "peekViewResult.matchHighlightBackground": "#ea5c004d",
+    "peekViewResult.matchHighlightBackground": "#56ffda4d",
     "peekViewResult.selectionBackground": "#3399ff33",
     "peekViewResult.selectionForeground": "#ffffff",
     "peekViewTitle.background": "#1e1e1e",
@@ -2078,7 +2078,7 @@
     "minimap.findMatchHighlight": "#515c6a",
     "minimap.selectionHighlight": "#263378",
     "minimap.errorHighlight": "#f48771",
-    "minimap.warningHighlight": "#cca700",
+    "minimap.warningHighlight": "#e0ff33",
     "minimap.background": "#21252a",
     "sideBar.dropBackground": "#134b5840",
     "editorGroup.emptyBackground": "#21252a",
